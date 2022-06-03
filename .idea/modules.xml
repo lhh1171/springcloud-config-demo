@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/configclient2/configclient2.iml" filepath="$PROJECT_DIR$/configclient2/configclient2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/configdemo.iml" filepath="$PROJECT_DIR$/.idea/configdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver2/configserver2.iml" filepath="$PROJECT_DIR$/configserver2/configserver2.iml" />
+    </modules>
+  </component>
+</project>

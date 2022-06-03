@@ -1,0 +1,14 @@
+server:
+  port: 9999
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/lhh1171/spring-cloud-config-properties.git
+          username: lhh1171
+          password: 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
+
+
