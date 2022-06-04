@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/configclient2/configclient2.iml" filepath="$PROJECT_DIR$/configclient2/configclient2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/configdemo.iml" filepath="$PROJECT_DIR$/.idea/configdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/configserver2/configserver2.iml" filepath="$PROJECT_DIR$/configserver2/configserver2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
     </modules>
   </component>
 </project>
